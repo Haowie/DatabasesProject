@@ -1,0 +1,22 @@
+Description,Product_Img,ProductID,Price,Type_of_Product
+,,,,
+Pepper Poppers,pep_pop.png,1,5.99,Appetizers
+Guacamole,guac.png,2,4.99,Appetizers
+Avacado Salsa,salsa.png,3,6.99,Appetizers
+Bean Dip,dip.png,4,4.99,Appetizers
+Garden Salad,gardenS.png,5,8.99,Salad
+Caesar Salad,caesarS.png,6,7.99,Salad
+Cobb Salad,cobbS.png,7,9.99,Salad
+Greek Salad,greekS.png,8,6.99,Salad
+Water,water.png,9,1.99,Beverage
+Milk,milk.png,10,2.99,Beverage
+Tea,tea.png,11,1.99,Beverage
+Beer,beer.png,12,10.5,Beverage
+Chicken Cordon Bleu,chickenCB.png,13,14.5,Maindish
+Sphagetti with Meatballs,sphagettiMB.png,14,15.5,Maindish
+Oven Roasted Chicken,ovenRC.png,15,9.99,Maindish
+Chicken and Broccoli,chickenBR.png,16,12.5,Maindish
+Pudding,pudding.png,17,5.99,Dessert
+Pecan Pie,pecanP.png,18,8.99,Dessert
+Cobbler,cobbler.png,19,11.5,Dessert
+Chocolate Chip Cookies,chocolateCC.png,20,5.99,Dessert
